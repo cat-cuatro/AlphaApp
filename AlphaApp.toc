@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: AlphaApp
+## Author: Cuatro/Amaeyth
+## Version: 0.1
+
+alphaCam.lua
+alphaBag.lua
+warlockUtility.lua
